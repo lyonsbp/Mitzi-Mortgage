@@ -1,7 +1,11 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
+    <img alt="Vue logo" src="../assets/mitzi-headshot.jpeg" />
     <h1>Yo whuddup I'm mitzi I make mortgages</h1>
+    <h3>
+      Make my hotline bling
+      <a href="tel:602-350-2596">602-350-2596</a>
+    </h3>
   </div>
 </template>
 
