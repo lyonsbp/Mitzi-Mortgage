@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/mitzi-headshot.jpeg" />
+    <img alt="mitzis headshot" src="../assets/mitzi-headshot.jpeg" />
     <h1>Yo whuddup I'm mitzi I make mortgages</h1>
     <h3>
       Make my hotline bling
