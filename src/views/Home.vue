@@ -15,3 +15,9 @@ export default {
   components: {}
 };
 </script>
+
+<style>
+img {
+  max-width: 85vw;
+}
+</style>
